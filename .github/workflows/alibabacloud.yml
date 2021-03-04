@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt Newwifi d2 usb 3
+name: Build OpenWrt Newwifi d2 usb 4
 
 env:
   REPO_URL: https://github.com/coolsnowwolf/lede
